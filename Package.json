@@ -4,7 +4,7 @@
   "description": "Simple Node.js calculator with unit tests",
   "main": "calculator.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha",
     "build": "echo \"Build step not needed for calculator project\""
   },
   "devDependencies": {
