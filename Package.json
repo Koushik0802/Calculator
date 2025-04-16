@@ -1,0 +1,15 @@
+{
+  "name": "calculator-node",
+  "version": "1.0.0",
+  "description": "Simple Node.js calculator with unit tests",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^10.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
