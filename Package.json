@@ -5,6 +5,7 @@
   "main": "calculator.js",
   "scripts": {
     "test": "mocha test.js"
+    "build": "echo \"Build step not needed for calculator project\""
   },
   "devDependencies": {
     "chai": "^4.4.1",
